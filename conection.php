@@ -6,8 +6,8 @@ function cone(){
 
     try {
         $servername = "localhost";
-        $username = "id7924200_gps";
-        $password = "gps1234";
+        $username = "root";
+        $password = "";
 
         $conn = new PDO("mysql:host=$servername;dbname=id7924200_app_gps", $username, $password);
         $conn->setAttribute(PDO::ATTR_ERRMODE, PDO::ERRMODE_EXCEPTION);
