@@ -8,5 +8,7 @@ Calcular la distancia entre dos puntos con JavaScript, los dos puntos serán def
 <li>
   2-) abrir el archivo index en tu navegador y probar las coordenadas
 </li>
+  Ejemplo:
+  <img src="https://github.com/ErickGBR/calcular_distancia/blob/master/example.jpg">
 
 </ul>
