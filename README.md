@@ -23,9 +23,6 @@ d = R.c<br>
 
 Conocida como La formula Haversine
 
-<iframe
-     width="300"
-    height="200"
-src="https://erickgbr.github.io/calcular_distancia/">
+https://erickgbr.github.io/calcular_distancia
 
 
